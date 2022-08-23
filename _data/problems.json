@@ -1,0 +1,75 @@
+[
+  {
+    "_id": "5d725a4a7b292f5f8ceff789",
+    "instruction": "Choose the best option below",
+    "question": "This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+    "point": 1,
+    "problem_type": "6d713995b721c3bb38c1f5d0",
+    "exam": "5d725cfec4ded7bcb480eaa6"
+  },
+  {
+    "_id": "5d725c84c4ded7bcb480eaa0",
+    "instruction": "Choose the best option below",
+    "question": "In this course you will learn full stack web development, first learning all about the frontend with HTML/CSS/JS/Vue and then the backend with Node.js/Express/MongoDB",
+    "point": 1,
+    "problem_type": "6d713995b721c3bb38c1f5d0",
+    "exam": "5d725cfec4ded7bcb480eaa6"
+  },
+  {
+    "_id": "5d725cb9c4ded7bcb480eaa1",
+    "instruction": "Choose the best option below",
+    "question": "In this course you will learn all about the front end with HTML, CSS and JavaScript. You will master tools like Git and Webpack and also learn C# and ASP.NET with Postgres",
+    "point": 1,
+    "problem_type": "6d713995b721c3bb38c1f5d0",
+    "exam": "5d725cfec4ded7bcb480eaa6"
+  },
+  {
+    "_id": "5d725cd2c4ded7bcb480eaa2",
+    "instruction": "Choose the best option below",
+    "question": "In this course you will learn to create beautiful interfaces. It is a mix of design and development to create modern exam experiences on both web and mobile",
+    "point": 12,
+    "problem_type": "6d713995b721c3bb38c1f5d0",
+    "exam": "5d725cfec4ded7bcb480eaa6"
+  },
+  {
+    "_id": "5d725ce8c4ded7bcb480eaa3",
+    "instruction": "Choose the best option below",
+    "question": "Get started building websites and web apps with HTML/CSS/JavaScript/PHP. We teach you",
+    "point": 10,
+    "problem_type": "6d713995b721c3bb38c1f5d0",
+    "exam": "5d725cfec4ded7bcb480eaa6"
+  },
+  {
+    "_id": "5d725cfec4ded7bcb480eaa4",
+    "instruction": "Choose the best option below",
+    "question": "In this course you will learn Python for data science, machine learning and big data tools",
+    "point": 10,
+    "problem_type": "6d713995b721c3bb38c1f5d0",
+    "exam": "5d725cfec4ded7bcb480eaa6",
+    "answers":[{"value": "A", "description": "The A"}]
+  },
+  {
+    "_id": "5d725cfec4ded7bcb480eaa5",
+    "instruction": "Choose the best option below",
+    "question": "This course will teach you how to build high quality web applications with technologies like React, Node.js, PHP & Laravel",
+    "point": 8,
+    "problem_type": "6d713995b721c3bb38c1f5d0",
+    "exam": "5d725cfec4ded7bcb480eaa6"
+  },
+  {
+    "_id": "5d725cfec4ded7bcb480eaa6",
+    "instruction": "Choose the best option below",
+    "question": "This course will teach you everything you need to know about quality assurance",
+    "point": 6,
+    "problem_type": "6d713995b721c3bb38c1f5d0",
+    "exam": "5d725cfec4ded7bcb480eaa6"
+  },
+  {
+    "_id": "5d725cfec4ded7bcb480eaa7",
+    "instruction": "Choose the best option below",
+    "question": "Get started building mobile applications for IOS using Swift and other tools",
+    "point": 8,
+    "problem_type": "6d713995b721c3bb38c1f5d0",
+    "exam": "5d725cfec4ded7bcb480eaa6"
+  }
+]
