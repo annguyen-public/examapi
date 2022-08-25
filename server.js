@@ -14,6 +14,18 @@ const cors = require('cors');
 const errorHandler = require('./middleware/error');
 const connectDB = require('./config/db');
 
+var fs = require('fs');
+
+var trueLog = console.log;
+console.log = function (msg) {
+  fs.appendFile('backend.log', msg + '\r\n', function (err) {
+    if (err) {
+      return trueLog(err);
+    }
+  });
+  trueLog(msg);
+};
+
 // Load env vars
 dotenv.config({ path: './config/config.env' });
 
